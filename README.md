@@ -36,7 +36,7 @@ Each notification will handle the code for both Starting and Stopping their pers
 
 
 ## To-Do List
-Finish main.py
+Finish main.py (the current one is a proof of concept)
 - [ ] Create the Settings
 - [ ] Create the GUI
 - [ ] Create the Calls for individual notifications
